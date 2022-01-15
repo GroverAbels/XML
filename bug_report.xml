@@ -1,1 +1,11 @@
-
+<?xml version="1.0" encoding="utf-8"?> 
+ <bug_report>IMAGINATION</bug_report>
+ <Summary>Во время чтения при моргании в руках япоявляется смартфоне</Summary>
+ <severity>"Critical"<severity>
+  <Steps to reproduce>
+    <1>Взять книгу</1>
+    <2>Начать читать</2>
+    <2>Моргнуть</3>
+   </Steps to reproduse>
+ <Result>Вы держите смартфон и листаете мемы</Result>
+ <Expected Result>Чтение продолжается</Expected Result>
